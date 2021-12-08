@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание 6", "Задание 6\Задание 6.csproj", "{C38131BC-63F5-40CE-8C6B-2F687EA26360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Полиндром", "Полиндром\Полиндром.csproj", "{587E3E64-0D7A-48DF-877D-7C6DF1012274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C38131BC-63F5-40CE-8C6B-2F687EA26360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38131BC-63F5-40CE-8C6B-2F687EA26360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38131BC-63F5-40CE-8C6B-2F687EA26360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38131BC-63F5-40CE-8C6B-2F687EA26360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587E3E64-0D7A-48DF-877D-7C6DF1012274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587E3E64-0D7A-48DF-877D-7C6DF1012274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587E3E64-0D7A-48DF-877D-7C6DF1012274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587E3E64-0D7A-48DF-877D-7C6DF1012274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFA0896E-FD8C-43A1-9D27-233444757D95}
+	EndGlobalSection
+EndGlobal
